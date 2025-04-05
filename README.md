@@ -3,7 +3,7 @@
 
 Hi, I'm Aelson, I'm currently an undergraduate Computer Science student at the Federal University of Campina Grande. In 2023, I started learning python, which was fascinating and I haven't stopped learning ever since. The academic environment is a place that really excites me, due to its amazing people who work and study there, whom have me want to learn more and more always. 
 
-- 🔭 I’m currently working on the Artificial Intelligence and Dedicated Architecture Lab @liad-ufcg
+- 🔭 I’m currently working on the Artificial Intelligence and Dedicated Architecture Lab, LIAD
 - 🌱 I’m currently learning digital images processing and 3D modeling
 - 📫 How to reach me: aelson.junior.araujo.diniz.cunha@ccc.ufcg.edu.br and https://www.linkedin.com/in/aelson-júnior-araújo-diniz-da-cunha-6834b3309/
 - 😄 Pronouns: he/him
