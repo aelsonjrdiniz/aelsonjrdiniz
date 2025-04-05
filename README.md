@@ -7,6 +7,7 @@ Hi, I'm Aelson, I'm currently a Computer Science student at the Federal Universi
 - 🌱 I’m currently learning digital images processing and 3D modeling
 - 📫 How to reach me: aelson.junior.araujo.diniz.cunha@ccc.ufcg.edu.br and https://www.linkedin.com/in/aelson-júnior-araújo-diniz-da-cunha-6834b3309/
 - 😄 Pronouns: he/him
+- 💬 Ask me about Greek mythology, pop culture, chess, Mathematics, Philosophy and Sociology
   
 <!--
 **aelsonjrdiniz/aelsonjrdiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
