@@ -1,7 +1,7 @@
 ### Hi there, I'm Aelson Júnior 👋
 
 
-Hi, I'm Aelson, I'm currently a undergraduate Computer Science student at the Federal University of Campina Grande. In 2023, I started learning python, which was fascinating and I haven't stopped learning ever since. The academic environment is a place that really excites me, due to its amazing people who work and study there, whom have me want to learn more and more always. 
+Hi, I'm Aelson, I'm currently an undergraduate Computer Science student at the Federal University of Campina Grande. In 2023, I started learning python, which was fascinating and I haven't stopped learning ever since. The academic environment is a place that really excites me, due to its amazing people who work and study there, whom have me want to learn more and more always. 
 
 - 🔭 I’m currently working on the Artificial Intelligence and Dedicated Architecture Lab @ UFCG
 - 🌱 I’m currently learning digital images processing and 3D modeling
