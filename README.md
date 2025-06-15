@@ -7,7 +7,7 @@ Hi, I'm Aelson, I'm currently an undergraduate Computer Science student at the F
 - 🌱 I’m currently learning digital images processing and 3D modeling
 - 📫 How to reach me: aelson.junior.araujo.diniz.cunha@ccc.ufcg.edu.br and https://www.linkedin.com/in/aelson-júnior-araújo-diniz-da-cunha-6834b3309/
 - 😄 Pronouns: he/him
-- 💬 I love talking about Greek mythology, pop culture, chess, Mathematics, Philosophy and Sociology
+- 💬 I love talking about Greek mythology, pop culture, chess and Mathematics
 
 <p align="center">
   <a href="https://skillicons.dev">
