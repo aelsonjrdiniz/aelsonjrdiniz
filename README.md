@@ -11,7 +11,7 @@ Hi, I'm Aelson, I'm currently an undergraduate Computer Science student at the F
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=clojure,py,cpp,java,opencv,blender,mysql,vim,haskell,ubuntu, spring" />
+    <img src="https://skillicons.dev/icons?i=clojure,py,cpp,java,opencv,blender,mysql,vim,haskell,ubuntu" />
   </a>
 </p>
   
