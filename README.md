@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on the Artificial Intelligence and Dedicated Architecture Lab, LIAD<br>🌱 I’m currently learning digital images processing and Deep Learning<br>📫 How to reach me: aelson.junior.araujo.diniz.cunha@ccc.ufcg.edu.br and https://www.linkedin.com/in/aelson-júnior-araújo-diniz-da-cunha-6834b3309/<br>😄 Pronouns: he/him<br>💬 I love talking about Greek mythology, pop culture, chess and Mathematics<br>
+🔭 I’m currently working on the Artificial Intelligence and Dedicated Architecture Lab, LIAD<br>🌱 I’m currently learning digital images processing, Deep Learning and Software Architecture<br>📫 How to reach me: aelson.junior.araujo.diniz.cunha@ccc.ufcg.edu.br and https://www.linkedin.com/in/aelson-júnior-araújo-diniz-da-cunha-6834b3309/<br>😄 Pronouns: he/him<br>💬 I love talking about Greek mythology, pop culture, chess and Mathematics<br>
 
 
 ## 🌐 Socials:
