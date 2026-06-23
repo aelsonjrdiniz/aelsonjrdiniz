@@ -1,4 +1,6 @@
 # 💫 About Me:
+Solid Software Engineer with 2 years of experience working at LIAD - UFCG, specializing in Back-end, AI development and research and Computer Vision. Managed many projects, where had the opportunity to sharpen leadership, proactiveness and growth mindset to bring positive impact to the team and clients.
+
 🔭 I’m currently working on the Artificial Intelligence and Dedicated Architecture Lab, LIAD<br>🌱 I’m currently learning digital images processing, Deep Learning and Software Architecture<br>📫 How to reach me: aelson.junior.araujo.diniz.cunha@ccc.ufcg.edu.br and https://www.linkedin.com/in/aelson-júnior-araújo-diniz-da-cunha-6834b3309/<br>😄 Pronouns: he/him<br>💬 I love talking about Greek mythology, pop culture, chess and Mathematics<br>
 
 
